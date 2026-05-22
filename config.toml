@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://zola-sveltia-source.fantasian.workers.dev"
+base_url = "https://blog.isedan.app"
 
 # Publication Language
 # Set the language/locale which is used on your site
@@ -7,7 +7,7 @@ default_language = "en"
 
 # Title & description
 # Site title
-title = "Zola Sveltia Source"
+title = "ISEDAN Blog"
 
 # Site description
 description = "Thoughts, stories and JAMstack"
