@@ -1,0 +1,11 @@
+{
+  "name": "isedan-blog",
+  "version": "1.0.0",
+  "description": "ISEDAN Blog with Zola Sveltia CMS",
+  "devDependencies": {
+    "lightningcss-cli": "^1.30.2"
+  },
+  "scripts": {
+    "build": "lightningcss --minify --bundle --targets \">= 0.25%\" static/css/screen.css -o public/css/screen.css"
+  }
+}
